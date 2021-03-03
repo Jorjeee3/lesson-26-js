@@ -47,7 +47,6 @@ function addProduct(name) {
 renderProducts()
 
 addProduct("Water")
-
 addProduct("Mashroom")
 
 renderProducts()
