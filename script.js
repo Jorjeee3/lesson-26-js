@@ -51,7 +51,7 @@ addProduct("Mashroom")
 
 renderProducts()
 
-
+// КОД НЕ ПРВИЛЬНО ВЫПОЛНЯЕТСЯ, НЕ МОГУ ПОНЯТЬ ПОЧЕМУ
 
 
 
